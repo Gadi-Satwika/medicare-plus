@@ -5,12 +5,6 @@ The project focuses on **user experience, time-based logic, and realistic web co
 
 ---
 
-## 🚀 Live Demo
-🔗 Live Site: <add-your-deployed-link-here>  
-🔗 GitHub Repository: <add-your-github-link-here>
-
----
-
 ## 📌 Features
 
 - User authentication flow (login & signup)
