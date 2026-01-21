@@ -59,7 +59,7 @@ This project is open-source and available for learning and educational purposes.
 ### 🙌 Acknowledgements
 Built as part of a frontend learning journey with a focus on clean design, reliability, and real-world application behavior.
 
-Check it out: [MedicarePlus](medicare-plus-gadi.netlify.app)
+Check it out: [MedicarePlus](https://medicare-plus-gadi.netlify.app/)
 
 ### Author: Gadi-Satwika
 ### contact: satwikagadi2005@gmail.com
