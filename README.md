@@ -41,22 +41,22 @@ The project focuses on **user experience, time-based logic, and realistic web co
 
 ---
 
-🌐 Deployment
+### 🌐 Deployment
 
 The project is deployed using Netlify.
 Client-side routing is handled using a _redirects file to prevent refresh issues.
 
-🔮 Future Improvements
+### 🔮 Future Improvements
 
 Backend integration with database support
 Mobile push notifications
 Weekly/monthly adherence trends
 Role-based access (caretaker support)
 
-📄 License
+### 📄 License
 This project is open-source and available for learning and educational purposes.
 
-🙌 Acknowledgements
+### 🙌 Acknowledgements
 Built as part of a frontend learning journey with a focus on clean design, reliability, and real-world application behavior.
 
 Check it out: [medicare-plus-gadi.netlify.app]
