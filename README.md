@@ -63,3 +63,6 @@ Check it out: [MedicarePlus](https://medicare-plus-gadi.netlify.app/)
 
 ### Author: Gadi-Satwika
 ### contact: satwikagadi2005@gmail.com
+
+
+I am to Ideas, if you can think you can improve this more. You can suggest me or fork it. And create a PR.
